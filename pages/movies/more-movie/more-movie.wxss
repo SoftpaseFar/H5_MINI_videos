@@ -1,0 +1,4 @@
+@import "../movie-grid/movie-grid-template.wxss";
+.more-movie-container{
+    background-color: #000;
+}

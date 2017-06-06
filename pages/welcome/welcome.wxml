@@ -1,0 +1,7 @@
+<view class="container">
+<image class="user-avatar" src="/images/avatar/avatar.png"></image>
+    <text class="user-name">曲阜师范大学</text>
+    <view class="moto-container" bindtap="onTap">
+        <text class="moto"><text style="color:blue">影院</text></text>
+    </view>
+</view>
